@@ -1,11 +1,15 @@
 /*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
 /*GENERAL*/
 
-/*HEADER*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 
 /*MAIN*/
-
-/*FOOTER*/
-
-/*RESPONSIVE*/
